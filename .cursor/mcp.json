@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "vault": {
+      "command": "/home/michael/projects/vault-mcp/.venv/bin/python",
+      "args": ["/home/michael/projects/vault-mcp/server.py"],
+      "env": { "VAULT_PATH": "/home/michael/Documents/Obsidian Vault" }
+    }
+  }
+}
